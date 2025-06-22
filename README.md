@@ -36,5 +36,12 @@ Mensagem cifrada/decifrada: buwbu
 
 Repita a execução do programa e insira a mensagem codificada para decodificar
 
+FUTURAS MELHORIAS
+
+- Implementar plugboard (tabuleiro de conexões)
+- Salvar/recuperar configurações
+- Interface gráfica com Tkinter ou PyQt
+- Exportar mensagens cifradas para arquivo
+
 AUTOR Lucas Noronha
 Junho/2025
