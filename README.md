@@ -13,11 +13,11 @@ FUNCIONALIDADES
 
 COMO USAR
 
-Certifique-se de ter o Python instalado (versão 3.6 ou superior).
-Baixe o arquivo enigma.ipynb.
-Execute.
-Defina as roldanas entre 0 e 27.
-Insira a mensagem.
+1. Certifique-se de ter o Python instalado (versão 3.6 ou superior).
+2. Baixe o arquivo enigma.ipynb.
+3. Execute.
+4. Defina as roldanas entre 0 e 27.
+5. Insira a mensagem.
 
 LÓGICA UTILIZADA
 
@@ -28,14 +28,12 @@ LÓGICA UTILIZADA
 
 EXEMPLO DE USO
 
-Digite a configuração da primeira roldana: 1
-Digite a configuração da segunda roldana: 0
-Digite a configuração da terceira roldana: 0
-Digite a mensagem a ser codificada ou decodificada: teste
-
-Mensagem cifrada/decifrada: bhmnb
-
-Repita a execução do programa e insira a mensagem codificada para decodificar
+1. Digite a configuração da primeira roldana: 1
+2. Digite a configuração da segunda roldana: 0
+3. Digite a configuração da terceira roldana: 0
+4. Digite a mensagem a ser codificada ou decodificada: teste
+5. Mensagem cifrada/decifrada: bhmnb
+6. Repita a execução do programa e insira a mensagem codificada para decodificar
 
 FUTURAS MELHORIAS
 
