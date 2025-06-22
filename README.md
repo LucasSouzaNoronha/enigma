@@ -16,7 +16,8 @@ COMO USAR
 Certifique-se de ter o Python instalado (versão 3.6 ou superior).
 Baixe o arquivo enigma.ipynb.
 Execute.
-Siga as instruções exibidas para definir as roldanas e digitar a mensagem.
+Defina as roldanas entre 0 e 27.
+Insira a mensagem.
 
 LÓGICA UTILIZADA
 
