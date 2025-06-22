@@ -32,7 +32,7 @@ Digite a configuração da segunda roldana: 0
 Digite a configuração da terceira roldana: 0
 Digite a mensagem a ser codificada ou decodificada: teste
 
-Mensagem cifrada/decifrada: buwbu
+Mensagem cifrada/decifrada: bhmnb
 
 Repita a execução do programa e insira a mensagem codificada para decodificar
 
